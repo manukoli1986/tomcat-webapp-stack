@@ -1,0 +1,6 @@
+---
+java_package: java-1.8.0-openjdk
+http_port: 8080
+https_port: 8443
+war_name: devopschallenge.war
+war_root_dir: /opt/apache-tomcat-8.5.16/webapps
